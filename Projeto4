@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Plataforma de Streaming</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Plataforma de Streaming</h1>
+    </header>
+
+    <main>
+        <section id="movie-list">
+            <h2>Filmes Populares</h2>
+        </section>
+
+        <section id="tv-list">
+            <h2>Séries Populares</h2>
+        </section>
+
+        <section id="movie-details"></section>
+        <section id="tv-details"></section>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>
